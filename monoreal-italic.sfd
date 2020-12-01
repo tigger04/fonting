@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1427918972
-ModificationTime: 1606779081
+ModificationTime: 1606781694
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 4
@@ -4001,7 +4001,7 @@ EndASM
 MacFeat: 0 0 0
 MacName: 0 0 24 "All Typographic Features"
 MacName: 0 1 24 "Fonctions typographiques"
-MacName: 0 2 33 "Alle typografischen M\232glichkeiten"
+MacName: 0 2 32 "Alle typografischen Mglichkeiten"
 MacName: 0 3 21 "Funzioni Tipografiche"
 MacName: 0 4 28 "Alle typografische kenmerken"
 MacSetting: 0
@@ -4016,11 +4016,11 @@ MacName: 0 1 23 "Connection des Cursives"
 MacName: 0 4 19 "Cursieve verbinding"
 MacSetting: 0
 MacName: 0 0 11 "Unconnected"
-MacName: 0 1 14 "Non connect\216es"
+MacName: 0 1 13 "Non connectes"
 MacName: 0 4 14 "Niet verbonden"
 MacSetting: 2
 MacName: 0 0 7 "Cursive"
-MacName: 0 1 21 "Pleinement connect\216es"
+MacName: 0 1 20 "Pleinement connectes"
 MacName: 0 4 7 "Cursief"
 EndMacFeatures
 ShortTable: cvt  2
@@ -4053,7 +4053,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 150 25 12
+WinInfo: 0 25 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65701 790
@@ -6290,32 +6290,44 @@ EndChar
 StartChar: f
 Encoding: 102 102 73
 Width: 1024
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-372 0 m 1,0,-1
- 244 0 l 1,1,-1
- 395 776 l 1,2,-1
- 139 776 l 1,3,-1
- 162 896 l 1,4,-1
- 418 896 l 1,5,-1
- 463 1129 l 2,6,7
- 470 1167 470 1167 476.5 1190.5 c 128,-1,8
- 483 1214 483 1214 503.5 1255.5 c 128,-1,9
- 524 1297 524 1297 554 1329 c 0,10,11
- 596 1374 596 1374 659.5 1399 c 128,-1,12
- 723 1424 723 1424 797 1424 c 0,13,14
- 891 1424 891 1424 1030 1408 c 1,15,-1
- 1006 1288 l 1,16,17
- 867 1304 867 1304 773 1304 c 0,18,19
- 688 1304 688 1304 645 1259 c 0,20,21
- 610 1222 610 1222 591 1129 c 2,22,-1
- 546 896 l 1,23,-1
- 930 896 l 1,24,-1
- 907 776 l 1,25,-1
- 523 776 l 1,26,-1
- 372 0 l 1,0,-1
+376.828125 24.814453125 m 1,0,-1
+ 360.073242188 -48.6416015625 l 1,1,2
+ 358 -56 358 -56 356.5 -62.5 c 0,3,4
+ 352 -82 352 -82 329.5 -127.5 c 0,5,6
+ 309 -169 309 -169 279 -201 c 0,7,8
+ 237 -246 237 -246 198.5 -271 c 128,-1,9
+ 160 -296 160 -296 146 -296 c 128,-1,10
+ 132 -296 132 -296 -7 -280 c 1,11,-1
+ 17 -160 l 1,12,13
+ 84 -176 84 -176 110 -176 c 0,14,15
+ 145 -176 145 -176 188 -131 c 0,16,-1
+ 223.903320312 -60.3740234375 l 1,17,-1
+ 239.724609375 0.458984375 l 1,18,-1
+ 395 776 l 1,19,-1
+ 139 776 l 1,20,-1
+ 162 896 l 1,21,-1
+ 418 896 l 1,22,-1
+ 463 1129 l 2,23,24
+ 471 1170 471 1170 476.5 1190.5 c 0,25,26
+ 483 1214 483 1214 503.5 1255.5 c 128,-1,27
+ 524 1297 524 1297 554 1329 c 0,28,29
+ 596 1374 596 1374 659.5 1399 c 128,-1,30
+ 723 1424 723 1424 797 1424 c 0,31,32
+ 891 1424 891 1424 1030 1408 c 1,33,-1
+ 1006 1288 l 1,34,35
+ 867 1304 867 1304 773 1304 c 0,36,37
+ 688 1304 688 1304 645 1259 c 0,38,39
+ 608.708894879 1220.69272237 608.708894879 1220.69272237 591 1129 c 2,40,-1
+ 546 896 l 1,41,-1
+ 930 896 l 1,42,-1
+ 907 776 l 1,43,-1
+ 523 776 l 1,44,-1
+ 376.828553 24.8142856141 l 1025,45,-1
+389 87 m 1025,46,-1
 EndSplineSet
 EndChar
 
