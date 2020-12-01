@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
-FontName: monoreal-italic
-FullName: mono real-Italic
+FontName: monoreal-bolditalic
+FullName: mono real-BoldItalic
 FamilyName: mono real
-Weight: Regular
+Weight: Bold
 Copyright: 2020 tigger04 based on Monoid by larsenworks
 Version: 1
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1427918972
-ModificationTime: 1606783020
+ModificationTime: 1606783054
 PfmFamily: 17
 TTFWeight: 300
 TTFWidth: 4
@@ -6345,7 +6345,7 @@ EndChar
 StartChar: f
 Encoding: 102 102 73
 Width: 1024
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -6387,7 +6387,7 @@ SplineSet
  1065.35533906 1408 l 1,50,-1
  1041.35533906 1288 l 1,51,-1
  1006 1252.64466094 l 1,52,53
- 915 1266 915 1266 824 1276 c 4,54,55
+ 915 1266 915 1266 824 1276 c 0,54,55
  679 1292 679 1292 666.804342565 1241.83397979 c 2,56,-1
  588.183623427 931.355339059 l 17,0,-1
 EndSplineSet
