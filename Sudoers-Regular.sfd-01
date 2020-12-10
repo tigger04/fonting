@@ -4,14 +4,14 @@ FullName: Sudoers Regular
 FamilyName: Sudoers
 Weight: Regular
 Copyright: 2020
-Version: 1.2
+Version: 1.1
 ItalicAngle: 0
 UnderlinePosition: -160
 UnderlineWidth: 64
 Ascent: 819
 Descent: 205
 InvalidEm: 0
-sfntRevision: 0x00013333
+sfntRevision: 0x0001199a
 LayerCount: 2
 Layer: 0 1 "Back" 1
 Layer: 1 1 "Fore" 0
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1595630991
-ModificationTime: 1607580389
+ModificationTime: 1606667552
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -5515,7 +5515,7 @@ StartChar: Z
 Encoding: 90 90 130
 Width: 448
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
