@@ -1,9 +1,9 @@
 SplineFontDB: 3.2
-FontName: aiaiai-regular
-FullName: aiaiai regular
-FamilyName: aiaiai
-Weight: regular
-Copyright: 
+FontName: cuyabra-Regular
+FullName: cuyabra Regular
+FamilyName: cuyabra
+Weight: Regular
+Copyright: Copyright \\(c\\) 2016 by . All rights reserved.
 Version: 001.001
 ItalicAngle: 0
 UnderlinePosition: -100
@@ -15,14 +15,14 @@ sfntRevision: 0x00010000
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 796 -163880829 10314789]
+XUID: [1021 796 -163880829 8174809]
 StyleMap: 0x0040
 FSType: 4
 OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1464040505
-ModificationTime: 1613864626
+ModificationTime: 1613864114
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,9 +59,8 @@ OS2Vendor: 'PYRS'
 OS2CodePages: 00000001.00000000
 OS2UnicodeRanges: 80000027.00000040.00000000.00000000
 Lookup: 258 0 0 "'kern' Horizontal Kerning lookup 0" { "'kern' Horizontal Kerning lookup 0 subtable"  } ['kern' ('DFLT' <'dflt' > ) ]
-MarkAttachClasses: 1
 DEI: 91125
-LangName: 1033 "Copyright (c) 2016 by N+AMgA-stor Jairo Delgado Giraldo. All rights reserved." "" "" "" "" "Version 1.000" "" "cuyabra Regular is a trademark of N+AMgA-stor Jairo Delgado Giraldo." "N+AMgA-stor Jairo Delgado Giraldo" "N+AMgA-stor Jairo Delgado Giraldo" "Copyright (c) 2016 by . All rights reserved." "" "" "" "" "" "" "" "cuyabra Regular"
+LangName: 1033 "Copyright (c) 2016 by N+AMgA-stor Jairo Delgado Giraldo. All rights reserved." "" "" "NstorJairoDelgadoGiraldo: cuyabra Regular: 2016" "" "Version 1.000" "" "cuyabra Regular is a trademark of N+AMgA-stor Jairo Delgado Giraldo." "N+AMgA-stor Jairo Delgado Giraldo" "N+AMgA-stor Jairo Delgado Giraldo" "Copyright (c) 2016 by . All rights reserved." "" "" "" "" "" "" "" "cuyabra Regular"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -8539,47 +8538,10 @@ EndChar
 StartChar: y
 Encoding: 121 121 92
 Width: 571
-Flags: HW
+Flags: MW
+HStem: -171 21G 546 20G
+VStem: -24 484
 LayerCount: 2
-UndoRedoHistory
-Layer: 1
-Undoes
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
-Type: 1
-WasModified: 0
-WasOrder2: 0
-Layer: 2
-Width: 671
-VWidth: 1000
-LBearingChange: 0
-UnicodeEnc: 0
-InstructionsLength: 0
-SplineSet
-437.406240426 530.598632812 m 0
- 446.524758732 552.34765625 470.996108111 566 497 566 c 2
- 519 566 l 2
- 540.67578125 566 560.045898438 550.044921875 560.045898438 528.428710938 c 0
- 560.045898438 523.858398438 559.137695312 519.293945312 557.478515625 515.03515625 c 0
- 469.321054496 298.49609375 373.804630055 81.9130859375 278.201602711 -134.598632812 c 0
- 268.644588695 -155.03125 246.139892578 -171 218.607843137 -171 c 2
- 192.789215686 -171 l 2
- 166.221856809 -171 147.82915422 -151.04296875 147.82915422 -129.881835938 c 0
- 147.82915422 -125.032226562 148.782882391 -120.137695312 150.69581993 -115.451171875 c 2
- 199.949850643 4.9765625 l 1
- -21.5029296875 515.927734375 l 2
- -23.162109375 520.116210938 -24.0458984375 524.545898438 -24.0458984375 529.041992188 c 0
- -24.0458984375 550.305664062 -4.67578125 566 17 566 c 2
- 39 566 l 2
- 65.3985380285 566 89.7701296339 552.125976562 98.8283547794 530.098632812 c 2
- 268 118.6953125 l 1
- 324.474958831 255.990234375 379.989612056 393.650390625 437.406240426 530.598632812 c 0
-EndSplineSet
-EndRedoOperation
-EndRedoes
-EndUndoRedoHistory
 Fore
 SplineSet
 137 -149 m 2
