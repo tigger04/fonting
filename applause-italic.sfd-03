@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
-FontName: applause-italic
-FullName: applause italic
+FontName: applause-Regular
+FullName: applause regular
 FamilyName: applause
-Weight: Italic
+Weight: Regular
 Copyright: 
 Version: 2.0
 ItalicAngle: 0
@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1464040505
-ModificationTime: 1617820652
+ModificationTime: 1617820602
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -3491,7 +3491,7 @@ Type: 12
 WasModified: 0
 WasOrder2: 0
 Layer: 0
-CopiedFrom: applause italic
+CopiedFrom: applause regular
 EndUndoOperation
 EndUndoes
 Redoes
@@ -3634,7 +3634,7 @@ Type: 12
 WasModified: 0
 WasOrder2: 0
 Layer: 0
-CopiedFrom: applause italic
+CopiedFrom: applause regular
 EndUndoOperation
 EndUndoes
 Redoes
@@ -3733,7 +3733,7 @@ Type: 12
 WasModified: 0
 WasOrder2: 0
 Layer: 0
-CopiedFrom: applause italic
+CopiedFrom: applause regular
 EndUndoOperation
 EndUndoes
 Redoes
@@ -3789,7 +3789,7 @@ Type: 12
 WasModified: 0
 WasOrder2: 0
 Layer: 0
-CopiedFrom: applause italic
+CopiedFrom: applause regular
 EndUndoOperation
 EndUndoes
 Redoes
@@ -3833,7 +3833,7 @@ Type: 12
 WasModified: 0
 WasOrder2: 0
 Layer: 0
-CopiedFrom: applause italic
+CopiedFrom: applause regular
 EndUndoOperation
 EndUndoes
 Redoes

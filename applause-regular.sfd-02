@@ -1,8 +1,8 @@
 SplineFontDB: 3.2
-FontName: applause-BoldItalic
-FullName: applause BoldItalic
+FontName: applause-Regular
+FullName: applause regular
 FamilyName: applause
-Weight: BoldItalic
+Weight: Regular
 Copyright: 
 Version: 001.001
 ItalicAngle: 0
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1464040505
-ModificationTime: 1617812033
+ModificationTime: 1617812479
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
