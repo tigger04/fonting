@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1595630991
-ModificationTime: 1607580389
+ModificationTime: 1607856878
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -5517,13 +5517,26 @@ Width: 448
 GlyphClass: 2
 Flags: WO
 LayerCount: 2
-Fore
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+Width: 448
+VWidth: 1024
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
 SplineSet
 -200 742 m 1048,0,-1
 67 640 m 1,1,-1
  388 640 l 1,2,-1
  388 588 l 1,3,-1
- 266.309570312 353 l 1,4,-1
+ 266.309570312 353 l 5,4,-1
  374 354 l 1,5,-1
  374 294 l 1,6,-1
  237.797851562 293 l 1,7,-1
@@ -5533,8 +5546,70 @@ SplineSet
  55 0 l 1,11,-1
  55 52 l 1,12,-1
  169.5 294 l 1,13,-1
- 78 294 l 5,14,-1
- 78 354 l 5,15,-1
+ 78 294 l 1,14,-1
+ 78 354 l 1,15,-1
+ 198.01171875 354 l 1,16,-1
+ 304 576 l 1,17,-1
+ 67 576 l 1,18,-1
+ 67 640 l 1,1,-1
+EndSplineSet
+EndUndoOperation
+EndUndoes
+Redoes
+RedoOperation
+Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+Width: 448
+VWidth: 1024
+LBearingChange: 0
+UnicodeEnc: 0
+InstructionsLength: 0
+SplineSet
+-200 742 m 1048,0,-1
+67 640 m 1,1,-1
+ 388 640 l 1,2,-1
+ 388 588 l 1,3,-1
+ 266 353 l 1,4,-1
+ 374 354 l 1,5,-1
+ 374 294 l 1,6,-1
+ 237.797851562 293 l 1,7,-1
+ 139 64 l 1,8,-1
+ 388 64 l 1,9,-1
+ 388 0 l 1,10,-1
+ 55 0 l 1,11,-1
+ 55 52 l 1,12,-1
+ 160 293 l 5,13,-1
+ 78 294 l 1,14,-1
+ 78 354 l 1,15,-1
+ 198.01171875 354 l 1,16,-1
+ 304 576 l 1,17,-1
+ 67 576 l 1,18,-1
+ 67 640 l 1,1,-1
+EndSplineSet
+EndRedoOperation
+EndRedoes
+EndUndoRedoHistory
+Fore
+SplineSet
+-200 742 m 1048,0,-1
+67 640 m 1,1,-1
+ 388 640 l 1,2,-1
+ 388 588 l 1,3,-1
+ 266 353 l 1,4,-1
+ 374 354 l 1,5,-1
+ 374 294 l 1,6,-1
+ 237.797851562 293 l 1,7,-1
+ 139 64 l 1,8,-1
+ 388 64 l 1,9,-1
+ 388 0 l 1,10,-1
+ 55 0 l 1,11,-1
+ 55 52 l 1,12,-1
+ 169.5 294 l 5,13,-1
+ 78 294 l 1,14,-1
+ 78 354 l 1,15,-1
  198.01171875 354 l 1,16,-1
  304 576 l 1,17,-1
  67 576 l 1,18,-1
