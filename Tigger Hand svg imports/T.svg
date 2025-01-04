@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20.26745mm"
+   height="17.460686mm"
+   viewBox="0 0 20.26745 17.460686"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   sodipodi:docname="t.svg"
+   inkscape:export-filename="t.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="3.4270057"
+     inkscape:cx="38.37169"
+     inkscape:cy="11.088397"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-78.641674,-171.19601)">
+    <path
+       id="STROKE_af7ce3b4-c04b-4cf0-952a-ceb51b25bb62"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.607131"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 78.94524,175.86057 0.39336,-0.0621 q 0.31996,-0.0787 1.99567,-0.71614 1.67568,-0.63747 3.71369,-1.38642 2.03763,-0.7493 4.34269,-1.32221 2.30505,-0.57256 3.61208,-0.72178 1.30705,-0.14888 2.27013,-0.15205 0.96274,-0.003 1.39276,0.0254 0.4297,0.0282 0.76978,0.0773 0.34007,0.049 1.17016,0.22013"
+       style="stroke-width:2;stroke-dasharray:none" />
+    <path
+       id="STROKE_269870d2-dcaa-46b7-8da5-b39217d323c0"
+       opacity="1"
+       fill="none"
+       stroke="#000000"
+       stroke-width="0.726369"
+       stroke-opacity="1"
+       stroke-linecap="round"
+       stroke-linejoin="round"
+       d="m 87.25776,174.72321 -0.17887,0.15981 q 0.002,0.0878 -0.74471,2.90265 -0.74648,2.81517 -1.2901,5.46806 -0.54364,2.65324 -0.67523,4.26755 0.008,0.0442 0.067,0.77223"
+       style="stroke-width:2;stroke-dasharray:none" />
+  </g>
+</svg>
