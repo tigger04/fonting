@@ -22,7 +22,7 @@ OS2Version: 1
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1280473793
-ModificationTime: 1736269341
+ModificationTime: 1736269560
 PfmFamily: 17
 TTFWeight: 500
 TTFWidth: 5
@@ -85,7 +85,7 @@ NameList: AGL For New Fonts
 DisplaySize: -72
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 27 12
+WinInfo: 7668 27 12
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65969 1261
@@ -6908,9 +6908,35 @@ Width: 254
 GlyphClass: 1
 Flags: W
 LayerCount: 2
+UndoRedoHistory
+Layer: 1
+Undoes
+UndoOperation
+Index: 0
+Type: 3
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+EndUndoes
+Redoes
+RedoOperation
+Index: 0
+Type: 1
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+Width: 254
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 724 -1 S 0.7 0 0 0.7 -120.102 -294.395 2
+InstructionsLength: 0
+EndRedoOperation
+EndRedoes
+EndUndoRedoHistory
 Fore
-Refer: 724 -1 N 1 0 0 1 -176 -475 2
-Validated: 1
+Refer: 724 -1 S 1 0 0 1 -176 -475 2
 EndChar
 
 StartChar: copyright
@@ -8149,7 +8175,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 314.286 755.833 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Edieresis
@@ -8210,7 +8235,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 462.58 736.433 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Idieresis
@@ -8271,7 +8295,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 145.477 697.333 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Odieresis
@@ -8332,7 +8355,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 351.286 697.333 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: multiply
@@ -8434,7 +8456,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 457.406 752.714 2
 Refer: 56 85 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Thorn
@@ -8615,7 +8636,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 236.25 410.333 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: edieresis
@@ -8676,7 +8696,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 207.603 433.014 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: idieresis
@@ -8737,7 +8756,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 122.932 410.333 2
 Refer: 150 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: eth
@@ -9018,7 +9036,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 S 1 0 0 1 223.233 416.867 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: divide
@@ -10232,7 +10249,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 308.382 426.967 2
 Refer: 88 117 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: ydieresis
@@ -10293,7 +10309,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 265.989 410.333 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Cdotaccent
@@ -12257,7 +12272,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 476.516 723.965 2
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Zdotaccent
@@ -12332,10 +12346,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 386
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 226 775 S 1 0 0 1 -42.1945 25.3602 2
+Refer: 93 122 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -12354,7 +12375,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -12365,21 +12386,20 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 226 775 N 1 0 0 1 -42.1945 25.3602 2
+Refer: 226 775 S 1 0 0 1 100.805 26.3602 2
 Refer: 93 122 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Zcaron
@@ -12453,10 +12473,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 386
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 65 94 S 1 0 0 -1 -99.6884 1087.69 2
+Refer: 93 122 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -12475,7 +12502,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -12486,19 +12513,19 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 65 94 N 1 0 0 -1 -99.6884 1087.69 2
+Refer: 65 94 S 1 0 0 -1 34.3116 1085.69 2
 Refer: 93 122 N 1 0 0 1 0 0 3
 EndChar
 
@@ -12570,10 +12597,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 588
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 15 44 S 1 0 0 1 314.906 577.938 2
+Refer: 50 79 N 1 0 0 1 0 0 2
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -12592,7 +12626,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -12603,21 +12637,20 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 314.906 577.938 2
+Refer: 15 44 S 1 0 0 1 474.906 626.938 2
 Refer: 50 79 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: ohorn
@@ -12631,10 +12664,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 15 44 S 1 0 0 1 106.852 297.471 2
+Refer: 82 111 N 1 0 0 1 0 0 2
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -12653,7 +12693,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -12664,21 +12704,20 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 15 44 N 1 0 0 1 106.852 297.471 2
+Refer: 15 44 S 1 0 0 1 288.852 419.471 2
 Refer: 82 111 N 1 0 0 1 0 0 2
-Validated: 5
 EndChar
 
 StartChar: Uhorn
@@ -17341,7 +17380,6 @@ EndUndoRedoHistory
 Fore
 Refer: 236 900 N 1 0 0 1 -92.8674 -387.013 2
 Refer: 104 168 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: Iotadieresis
@@ -17402,7 +17440,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 145.477 697.333 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: Upsilondieresis
@@ -17463,7 +17500,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 476.516 723.965 2
 Refer: 60 89 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: omicrontonos
@@ -17657,7 +17693,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 476.516 723.965 2
 Refer: 241 978 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: rho
@@ -17730,7 +17765,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 145.477 697.333 2
 Refer: 44 73 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0451
@@ -17791,7 +17825,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 207.603 433.014 2
 Refer: 72 101 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni0457
@@ -17852,7 +17885,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 122.932 410.333 2
 Refer: 150 305 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04D2
@@ -17913,7 +17945,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 314.286 755.833 2
 Refer: 36 65 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04D3
@@ -17974,7 +18005,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 236.25 410.333 2
 Refer: 68 97 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04E6
@@ -18035,7 +18065,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 351.286 697.333 2
 Refer: 50 79 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04E7
@@ -18049,34 +18078,160 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
+Type: 1
 WasModified: 1
 WasOrder2: 1
 Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 223.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
-Type: 3
+Type: 1
 WasModified: 1
 WasOrder2: 1
 Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 213.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 2
+Type: 1
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 203.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 3
+Type: 1
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 193.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 4
+Type: 1
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 183.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 5
+Type: 1
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 173.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 6
+Type: 1
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 163.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 7
+Type: 1
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 153.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 8
+Type: 1
+WasModified: 0
+WasOrder2: 1
+Layer: 2
+Width: 420
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 143.233 416.867 2
+Refer: 82 111 N 1 0 0 1 0 0 3
+InstructionsLength: 0
+EndUndoOperation
+UndoOperation
+Index: 9
 Type: 3
 WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
 UndoOperation
-Index: 3
+Index: 10
+Type: 3
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 11
+Type: 3
+WasModified: 1
+WasOrder2: 1
+Layer: 2
+EndUndoOperation
+UndoOperation
+Index: 12
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
 UndoOperation
-Index: 4
+Index: 13
 Type: 3
 WasModified: 0
 WasOrder2: 1
@@ -18084,19 +18239,11 @@ Layer: 2
 EndUndoOperation
 EndUndoes
 Redoes
-RedoOperation
-Index: 0
-Type: 3
-WasModified: 0
-WasOrder2: 1
-Layer: 2
-EndRedoOperation
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 104 168 N 1 0 0 1 143.233 416.867 2
+Refer: 104 168 S 1 0 0 1 233.233 416.867 2
 Refer: 82 111 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04F1
@@ -18110,10 +18257,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 325
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 104 168 S 1 0 0 1 265.989 410.333 2
+Refer: 92 121 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -18132,7 +18286,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -18143,21 +18297,20 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 104 168 N 1 0 0 1 265.989 410.333 2
+Refer: 104 168 S 1 0 0 1 163.989 424.333 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni04F3
@@ -18171,10 +18324,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 325
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 5 34 S 1 0 0 1 104.978 -16.25 2
+Refer: 92 121 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -18193,7 +18353,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -18204,21 +18364,20 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 5 34 N 1 0 0 1 104.978 -16.25 2
+Refer: 5 34 S 1 0 0 1 16.978 -12.25 2
 Refer: 92 121 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: quoteleft
@@ -20189,7 +20348,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 427.126 721.933 2
 Refer: 43 72 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E27
@@ -20250,7 +20408,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 224.531 689.733 2
 Refer: 75 104 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E28
@@ -21065,10 +21222,17 @@ Layer: 1
 Undoes
 UndoOperation
 Index: 0
-Type: 3
-WasModified: 1
+Type: 1
+WasModified: 0
 WasOrder2: 1
 Layer: 2
+Width: 513
+VWidth: 1000
+LBearingChange: 0
+UnicodeEnc: 0
+Refer: 226 775 S 1 0 0 1 88.5146 38.2549 2
+Refer: 80 109 N 1 0 0 1 0 0 3
+InstructionsLength: 0
 EndUndoOperation
 UndoOperation
 Index: 1
@@ -21087,7 +21251,7 @@ EndUndoOperation
 UndoOperation
 Index: 3
 Type: 3
-WasModified: 0
+WasModified: 1
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
@@ -21098,21 +21262,20 @@ WasModified: 0
 WasOrder2: 1
 Layer: 2
 EndUndoOperation
-EndUndoes
-Redoes
-RedoOperation
-Index: 0
+UndoOperation
+Index: 5
 Type: 3
 WasModified: 0
 WasOrder2: 1
 Layer: 2
-EndRedoOperation
+EndUndoOperation
+EndUndoes
+Redoes
 EndRedoes
 EndUndoRedoHistory
 Fore
-Refer: 226 775 N 1 0 0 1 88.5146 38.2549 2
+Refer: 226 775 S 1 0 0 1 183.515 40.2549 2
 Refer: 80 109 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E42
@@ -23183,7 +23346,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 686.317 778.893 2
 Refer: 58 87 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: wdieresis
@@ -23496,7 +23658,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 S 1 0 0 1 258.536 491.833 2
 Refer: 90 119 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E86
@@ -24343,7 +24504,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 463.132 740.433 2
 Refer: 59 88 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E8D
@@ -24572,7 +24732,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 S 1 0 0 1 181.477 410.333 2
 Refer: 91 120 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E8E
@@ -26103,7 +26262,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 183.621 608.233 2
 Refer: 87 116 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1E98
@@ -27874,8 +28032,7 @@ EndRedoes
 EndUndoRedoHistory
 Fore
 Refer: 227 803 N 1 0 0 1 69.2662 -49.808 2
-Refer: 178 416 N 1 0 0 1 0 0 3
-Validated: 5
+Refer: 178 416 S 1 0 0 1 0 0 3
 EndChar
 
 StartChar: uni1EE3
@@ -27936,7 +28093,6 @@ EndUndoRedoHistory
 Fore
 Refer: 227 803 N 1 0 0 1 128.826 -45.1649 2
 Refer: 179 417 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: uni1EE4
@@ -38927,7 +39083,6 @@ Flags: W
 LayerCount: 2
 Fore
 Refer: 237 901 N 1 0 0 1 0 0 3
-Validated: 5
 EndChar
 
 StartChar: uni1FEF
@@ -56407,7 +56562,6 @@ EndUndoRedoHistory
 Fore
 Refer: 104 168 N 1 0 0 1 462.58 736.433 2
 Refer: 40 69 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni040C
@@ -59593,7 +59747,6 @@ EndUndoRedoHistory
 Fore
 Refer: 67 96 N 1 0 0 1 -60.0549 -259.303 2
 Refer: 104 168 N 1 0 0 1 0 0 3
-Validated: 1
 EndChar
 
 StartChar: uni1FF9
